@@ -26,7 +26,7 @@ public class CustomListAdapter extends ArrayAdapter<String> {
 
         this.context = context;
         this.data = data;
-        this.images = images
+        this.images = images;
     }
 
 
